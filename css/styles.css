@@ -841,6 +841,12 @@ body {
     color: #4C63F7;
 }
 
+.download-btn-icon {
+    width: 32px;
+    height: 32px;
+    border-radius: 8px;
+}
+
 .download-btn .small {
     font-size: 12px;
     color: rgba(255, 255, 255, 0.6);
